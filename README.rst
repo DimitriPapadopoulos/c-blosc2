@@ -41,7 +41,7 @@ See a 3-minute `introductory video to Blosc2 <https://www.youtube.com/watch?v=ER
 Blosc2 NDim: an N-Dimensional store
 ===================================
 
-One of more exciting additions in C-Blosc2 is the `Blosc2 NDim layer <https://www.blosc.org/c-blosc2/reference/b2nd.html>`_ (or B2ND for short), allowing to create *and* read n-dimensional datasets in an extremely efficient way thanks to a n-dim 2-level partitioning, that allows to slice and dice arbitrary large and compressed data in a more fine-grained way:
+One of more exciting additions in C-Blosc2 is the `Blosc2 NDim layer <https://www.blosc.org/c-blosc2/reference/b2nd.html>`_ (or B2ND for short), which allows creating *and* reading n-dimensional datasets in an extremely efficient way thanks to a n-dim 2-level partitioning, that allows slicing and dicing arbitrary large and compressed data in a more fine-grained way:
 
 .. image:: https://github.com/Blosc/c-blosc2/blob/main/images/b2nd-2level-parts.png?raw=true
   :width: 75%
