@@ -6,4 +6,3 @@ cmake-build-*
 /doc/doxygen/xml/
 /doc/xml
 .vs/
-_codeql_build_dir/
