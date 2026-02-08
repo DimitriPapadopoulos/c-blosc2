@@ -1,1 +1,0 @@
-/home/runner/work/c-blosc2/.codeql-scratch/dbs/cpp/working/autobuild/bin/cc  -std=gnu99 -std=gnu99 -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/sframe_simple.dir/link.d CMakeFiles/sframe_simple.dir/sframe_simple.c.o -o sframe_simple  -lrt ../blosc/libblosc_testing.a -ldl -lrt -lm

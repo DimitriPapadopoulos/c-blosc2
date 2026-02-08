@@ -1,1 +1,0 @@
-/home/runner/work/c-blosc2/.codeql-scratch/dbs/cpp/working/autobuild/bin/cc  -std=gnu99 -std=gnu99 -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/decompress_file.dir/link.d CMakeFiles/decompress_file.dir/decompress_file.c.o -o decompress_file  -lrt ../blosc/libblosc_testing.a -ldl -lrt -lm

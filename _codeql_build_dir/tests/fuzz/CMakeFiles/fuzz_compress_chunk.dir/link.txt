@@ -1,1 +1,0 @@
-/home/runner/work/c-blosc2/.codeql-scratch/dbs/cpp/working/autobuild/bin/cc  -std=gnu99 -std=gnu99 -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/fuzz_compress_chunk.dir/link.d CMakeFiles/fuzz_compress_chunk.dir/fuzz_compress_chunk.c.o CMakeFiles/fuzz_compress_chunk.dir/standalone.c.o -o compress_chunk_fuzzer  ../../blosc/libblosc2.a -ldl -lrt -lm

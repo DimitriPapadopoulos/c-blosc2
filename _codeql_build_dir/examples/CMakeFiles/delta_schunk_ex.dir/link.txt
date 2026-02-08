@@ -1,1 +1,0 @@
-/home/runner/work/c-blosc2/.codeql-scratch/dbs/cpp/working/autobuild/bin/cc  -std=gnu99 -std=gnu99 -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/delta_schunk_ex.dir/link.d CMakeFiles/delta_schunk_ex.dir/delta_schunk_ex.c.o -o delta_schunk_ex  -lrt ../blosc/libblosc_testing.a -ldl -lrt -lm

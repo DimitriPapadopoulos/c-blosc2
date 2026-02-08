@@ -1,1 +1,0 @@
-/home/runner/work/c-blosc2/.codeql-scratch/dbs/cpp/working/autobuild/bin/cc  -std=gnu99 -std=gnu99 -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/b2nd_example_empty_shape.dir/link.d CMakeFiles/b2nd_example_empty_shape.dir/example_empty_shape.c.o -o b2nd_example_empty_shape  ../../blosc/libblosc_testing.a -ldl -lrt -lm

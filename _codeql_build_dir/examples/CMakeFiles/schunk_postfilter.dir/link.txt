@@ -1,1 +1,0 @@
-/home/runner/work/c-blosc2/.codeql-scratch/dbs/cpp/working/autobuild/bin/cc  -std=gnu99 -std=gnu99 -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/schunk_postfilter.dir/link.d CMakeFiles/schunk_postfilter.dir/schunk_postfilter.c.o -o schunk_postfilter  -lrt ../blosc/libblosc_testing.a -ldl -lrt -lm

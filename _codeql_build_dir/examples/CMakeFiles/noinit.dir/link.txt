@@ -1,1 +1,0 @@
-/home/runner/work/c-blosc2/.codeql-scratch/dbs/cpp/working/autobuild/bin/cc  -std=gnu99 -std=gnu99 -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/noinit.dir/link.d CMakeFiles/noinit.dir/noinit.c.o -o noinit  -lrt ../blosc/libblosc_testing.a -ldl -lrt -lm

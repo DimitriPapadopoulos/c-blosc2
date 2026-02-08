@@ -1,1 +1,0 @@
-/home/runner/work/c-blosc2/.codeql-scratch/dbs/cpp/working/autobuild/bin/cc  -std=gnu99 -std=gnu99 -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/sum_openmp.dir/link.d CMakeFiles/sum_openmp.dir/sum_openmp.c.o -o sum_openmp  -lrt ../blosc/libblosc_testing.a -ldl -lrt -lm
