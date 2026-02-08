@@ -1,0 +1,1 @@
+/home/runner/work/c-blosc2/.codeql-scratch/dbs/cpp/working/autobuild/bin/cc  -std=gnu99 -std=gnu99 -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/test_ndlz.dir/link.d CMakeFiles/test_ndlz.dir/test_ndlz.c.o -o test_ndlz  ../../../blosc/libblosc_testing.a -ldl -lrt -lm

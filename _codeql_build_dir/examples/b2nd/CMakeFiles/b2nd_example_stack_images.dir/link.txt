@@ -1,0 +1,1 @@
+/home/runner/work/c-blosc2/.codeql-scratch/dbs/cpp/working/autobuild/bin/cc  -std=gnu99 -std=gnu99 -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/b2nd_example_stack_images.dir/link.d CMakeFiles/b2nd_example_stack_images.dir/example_stack_images.c.o -o b2nd_example_stack_images  ../../blosc/libblosc_testing.a -ldl -lrt -lm

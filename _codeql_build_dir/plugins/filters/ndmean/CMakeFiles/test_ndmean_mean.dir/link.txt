@@ -1,0 +1,1 @@
+/home/runner/work/c-blosc2/.codeql-scratch/dbs/cpp/working/autobuild/bin/cc  -std=gnu99 -std=gnu99 -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/test_ndmean_mean.dir/link.d CMakeFiles/test_ndmean_mean.dir/test_ndmean_mean.c.o -o test_ndmean_mean  ../../../blosc/libblosc_testing.a -ldl -lrt -lm

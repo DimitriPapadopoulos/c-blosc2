@@ -1,0 +1,1 @@
+/home/runner/work/c-blosc2/.codeql-scratch/dbs/cpp/working/autobuild/bin/cc  -std=gnu99 -std=gnu99 -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/zstd_dict.dir/link.d CMakeFiles/zstd_dict.dir/zstd_dict.c.o -o zstd_dict  -lrt ../blosc/libblosc_testing.a -ldl -lrt -lm

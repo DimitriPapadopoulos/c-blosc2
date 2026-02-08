@@ -1,0 +1,1 @@
+/home/runner/work/c-blosc2/.codeql-scratch/dbs/cpp/working/autobuild/bin/cc  -std=gnu99 -std=gnu99 -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/trunc_prec_schunk.dir/link.d CMakeFiles/trunc_prec_schunk.dir/trunc_prec_schunk.c.o -o trunc_prec_schunk  -lrt ../blosc/libblosc_testing.a -ldl -lrt -lm

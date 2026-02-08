@@ -1,0 +1,1 @@
+/home/runner/work/c-blosc2/.codeql-scratch/dbs/cpp/working/autobuild/bin/cc  -std=gnu99 -std=gnu99 -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/b2bench.dir/link.d CMakeFiles/b2bench.dir/b2bench.c.o -o b2bench  -lrt ../blosc/libblosc_testing.a -ldl -lrt -lm
